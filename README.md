@@ -1,4 +1,4 @@
-# Jones In The Fast Lane - Java - 2017
+# Jones In The Fast Lane - Game - Java - 2017
 
 
 <p align="center">
