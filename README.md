@@ -26,6 +26,7 @@
 ### Other Features:
 - **8 Maps Available**
 - **Weeks and days counter**
+- **Menu navigation**
 - **ASCII Graphics in terminal**
 
 ## Technologies:
