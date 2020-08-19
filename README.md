@@ -2,7 +2,8 @@
 ### Life Simulation Game based on **"Jones In The Fast Lane"** from 1991.
 
 ## Features:
-**Visit one of the 8 Buildings:**
+
+### Visit one of the 8 Buildings:
  1. University
  2. Factory
  3. Employment Office
@@ -12,7 +13,7 @@
  7. Pawn Shop
  8. Monolith Burger
  
-**Interact with the Buildings:**
+### Interact with the Buildings:
  1. Accumulate skills
  2. Earn money by working
  3. Get a job
@@ -22,9 +23,9 @@
  7. Buy and Sell objects
  8. Buy food
 
-**8 Available Maps**
-**ASCII graphics** in terminal
-**Weeks and days counter**
+### 8 Available Maps
+### ASCII graphics in terminal
+### Weeks and days counter
 
 ## Technologies:
 - JAVA
