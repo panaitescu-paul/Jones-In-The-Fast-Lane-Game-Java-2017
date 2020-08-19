@@ -3,14 +3,14 @@
 
 ## Features:
 - **Visit one of the 8 Buildings:**
-1. University
-2. Factory
-3. Employment Office
-4. Home
-5. Bank
-6. Rent Office
-7. Pawn Shop
-8. Monolith Burger
+  1. University
+  2. Factory
+  3. Employment Office
+  4. Home
+  5. Bank
+  6. Rent Office
+  7. Pawn Shop
+  8. Monolith Burger
 - **Interact with the Buildings:**
 1. Accumulate skills
 2. Earn money by working
