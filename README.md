@@ -39,21 +39,21 @@
 
 <p align="center">
   <hr>
-  <img width="50%" height="60%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/1.png">
+  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/1.png">
   <hr>
-  <img width="50%" height="60%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/2.png">
+  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/2.png">
   <hr>
-  <img width="50%" height="60%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/3.png">
+  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/3.png">
   <hr>
-  <img width="50%" height="60%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/4.png">
+  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/4.png">
   <hr>
-  <img width="50%" height="60%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/5.png">
+  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/5.png">
   <hr>
-  <img width="50%" height="60%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/6.png">
+  <img width="50%" height="50% text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/6.png">
   <hr>
-  <img width="50%" height="60%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/7.png">
+  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/7.png">
   <hr>
-  <img width="50%" height="60%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/8.png">
+  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/8.png">
   <hr>
-  <img width="80%" height="60%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/9.png">
+  <img width="80%" height="80%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/9.png">
   </p>
