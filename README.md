@@ -20,13 +20,35 @@
  4. Rest
  5. Deposit / Withdraw money
  6. Rent a house
- 7. Buy and Sell objects
+ 7. Buy and sell objects
  8. Buy food
 
+### Player Stats:
+- Money
+- Bank Account
+- Rest Energy 
+- Food Energy 
+
+### Player Knowledge:
+- Literature 
+- Mathematics 
+- Computer Science 
+- Electronics 
+- Robotics 
+- Ind. Design
+- Job
+
+### Inventory Items:
+- Freezer 
+- Clothes 
+- Books 
+- Tv 
+- Laptop
+
 ### Other Features:
-- **8 Maps Available**
-- **Weeks and days counter**
 - **Menu navigation**
+- **Game progression based on Game Ticks**
+- **8 Maps Available**
 - **ASCII Graphics in terminal**
 
 ## Technologies:
