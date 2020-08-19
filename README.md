@@ -11,6 +11,7 @@
  6. Rent Office
  7. Pawn Shop
  8. Monolith Burger
+ 
 **Interact with the Buildings:**
  1. Accumulate skills
  2. Earn money by working
@@ -20,6 +21,7 @@
  6. Rent a house
  7. Buy and Sell objects
  8. Buy food
+
 **8 Available Maps**
 **ASCII graphics** in terminal
 **Weeks and days counter**
