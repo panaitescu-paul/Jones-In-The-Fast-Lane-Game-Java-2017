@@ -45,7 +45,7 @@
   <hr>
   <img width="60%" height="60%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/3.png">
   <hr>
-  <img width="40%" height="40%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/4.png">
+  <img width="30%" height="30%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/4.png">
   <hr>
   <img width="40%" height="40%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/5.png">
   <hr>
