@@ -51,9 +51,9 @@
   <hr>
   <img width="50%" height="50% text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/6.png">
   <hr>
-  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/7.png">
+  <img width="40%" height="40%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/7.png">
   <hr>
-  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/8.png">
+  <img width="40%" height="40%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/8.png">
   <hr>
-  <img width="80%" height="80%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/9.png">
+  <img width="100%" height="100%" text-align="center" src="https://github.com/panaitescu-paul/Jones-In-The-Fast-Lane-Game-Java-2017/blob/master/screenshots/9.png">
   </p>
