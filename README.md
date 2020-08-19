@@ -23,9 +23,10 @@
  7. Buy and Sell objects
  8. Buy food
 
-### 8 Available Maps
-### ASCII graphics in terminal
-### Weeks and days counter
+### Other Features:
+- **8 Maps Available**
+- **ASCII Graphics in terminal**
+- **Weeks and days counter**
 
 ## Technologies:
 - JAVA
