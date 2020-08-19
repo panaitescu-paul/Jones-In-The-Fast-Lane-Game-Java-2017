@@ -25,8 +25,8 @@
 
 ### Other Features:
 - **8 Maps Available**
-- **ASCII Graphics in terminal**
 - **Weeks and days counter**
+- **ASCII Graphics in terminal**
 
 ## Technologies:
 - JAVA
